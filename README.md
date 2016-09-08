@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/josh-stevens/amigo.png?label=ready&title=Ready)](https://waffle.io/josh-stevens/amigo)
 # amigo
 A social media based platform for planning and organizing trips with friends. 
 
